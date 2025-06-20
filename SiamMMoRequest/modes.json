@@ -1,1 +1,16 @@
-
+{
+  "modes": [
+    {
+      "name": "ลูกเบิ้ล 2 รีแม็กไว",
+      "url": "https://github.com/2439CH/dino/blob/main/NamthipZ/2/ExEWarZ.exe"
+    },
+    {
+      "name": "ลูกเบิ้ล 3 รีแม็กไว",
+      "url": "https://github.com/2439CH/dino/blob/main/NamthipZ/3/ExEWarZ.exe"
+    },
+    {
+      "name": "ลูกเบิ้ล 4 รีแม็กไว",
+      "url": "https://github.com/2439CH/dino/blob/main/NamthipZ/4/ExEWarZ.exe"
+    }
+  ]
+}
