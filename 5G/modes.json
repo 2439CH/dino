@@ -1,1 +1,12 @@
-
+{
+  "modes": [
+    {
+      "name": "ดูดหัว 0.3",
+      "url": "https://github.com/2439CH/dino/raw/main/5G/3/ExEWarZ.exe"
+    },
+    {
+      "name": "ดูดหัว 0.5",
+      "url": "https://github.com/2439CH/dino/raw/main/5G/5/ExEWarZ.exe"
+    }
+  ]
+}
