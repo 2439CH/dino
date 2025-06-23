@@ -2,18 +2,13 @@
   "modes": [
     {
       "name": "ชื่อโหมด 1",
-      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/1/warz_patch.exe",
+      "url": "https://raw.githubusercontent.com/2439CH/dino/main/iFATz/1/ExEWarZ.exe",
       "filename": "warz_patch.exe"
     },
     {
       "name": "ชื่อโหมด 2",
-      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/2/MiniA.exe",
+      "url": "https://raw.githubusercontent.com/2439CH/dino/main/iFATz/2/ExEWarZ.exe",
       "filename": "MiniA.exe"
-    },
-    {
-      "name": "ชื่อโหมด 3",
-      "url": "https://raw.githubusercontent.com/2439CH/dino/main/ICrazyZ/3/ExEWarZ.exe",
-      "filename": "ExEWarZ.exe"
     }
   ]
 }
