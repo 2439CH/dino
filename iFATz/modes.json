@@ -1,14 +1,14 @@
 {
   "modes": [
     {
-      "name": "ชื่อโหมด 1",
+      "name": "ลูกเบิ้ล 2",
       "url": "https://raw.githubusercontent.com/2439CH/dino/main/iFATz/1/ExEWarZ.exe",
-      "filename": "warz_patch.exe"
+      "filename": "ExEWarZ.exe"
     },
     {
-      "name": "ชื่อโหมด 2",
+      "name": "ลูกเบิ้ล 2",
       "url": "https://raw.githubusercontent.com/2439CH/dino/main/iFATz/2/ExEWarZ.exe",
-      "filename": "MiniA.exe"
+      "filename": "ExEWarZ.exe"
     }
   ]
 }
