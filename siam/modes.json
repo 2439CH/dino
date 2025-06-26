@@ -1,1 +1,12 @@
-
+{
+  "modes": [
+    {
+      "name": "ลดดีด ลดกระจาย",
+      "url": "https://github.com/2439CH/dino/raw/main/siam/1/siamexe.exe"
+    },
+    {
+      "name": "ลดดีด ลดกระจาย",
+      "url": "https://github.com/2439CH/dino/raw/main/siam/2/siamexe.exe"
+    }
+  ]
+}
